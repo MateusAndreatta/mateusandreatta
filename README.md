@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Mateus Andreatta and I'm a iOS Developer, from Brazil</p>
+<p align="left">Hi, I'm Mateus Andreatta, an iOS Developer from Brazil, passionate about building seamless and innovative mobile applications</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating solutions since 2019<br>📚 I'm currently learning React Native<br>🎯 Goals: On my way to be a iOS Tech Lead<br>🎲 Fun fact: I have 2 birds: Jorge and Miguel</p>
+<p align="left">✨ Creating solutions since 2019<br>📚 I'm currently learning React Native<br>🎯 Goals: to becoming an iOS Tech Lead<br>🎲 Fun fact: I have two birds: Jorge and Miguel</p>
 
 ###
 
