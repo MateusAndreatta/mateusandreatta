@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating solutions since 2019<br>📚 I'm currently learning AI<br>🎯 Goals: to becoming an iOS Tech Lead<br>🎲 Fun fact: I have two birds: Jorge and Miguel</p>
+<p align="left">✨ Creating solutions since 2019<br>📚 I'm currently learning AI<br>🎯 Goals: to becoming an Staff Engineer<br>🎲 Fun fact: I have two birds: Jorge and Miguel</p>
 
 ###
 
